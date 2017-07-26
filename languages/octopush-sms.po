@@ -1,0 +1,1481 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: octopush-sms\n"
+"POT-Creation-Date: 2015-04-20 21:37+0100\n"
+"PO-Revision-Date: 2015-04-20 21:37+0100\n"
+"Last-Translator: \n"
+"Language-Team: mgrenier <mathieu.grenier50@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /media/mathieu/OS/Users/admin/Google Drive/projets/"
+"woo/wp-content/plugins/octopush-sms/admin\n"
+"X-Poedit-SearchPath-1: ./../*/*\n"
+"X-Poedit-SearchPath-2: ./../*/*/*\n"
+"X-Poedit-SearchPath-3: /media/mathieu/OS/Users/admin/Google Drive/projets/"
+"woo/wp-content/plugins/octopush-sms/admin/partials\n"
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:81
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:90
+msgid "Create account"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:82
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:93
+msgid "Send Message"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:83
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:94
+msgid "Validate Order"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:85
+msgid "Stock notification"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:86
+msgid "Admin alert"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:87
+msgid "Daily report"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:91
+msgid "Send SMS when customer has lost his password"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:96
+msgid "Status update"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:149
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-settings.php:38
+msgid "Send SMS"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:220
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-admin-page.php:31
+msgid "Settings"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:377
+msgid "id_sendsms_campaign is not set."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:439
+msgid "In construction"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:441
+msgid "Transfer in progess"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:443
+msgid "Waiting for validation"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:445
+msgid "Sent"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:447
+msgid "Canceled"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:449
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:326
+msgid "Error"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:517
+msgid "Error unknown"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:219
+msgid "{firstname} {lastname} has just registered on {shopname}"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:222
+msgid "{from} has sent a message to{contact_name} ({contact_mail}) : {message}"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:225
+msgid ""
+"New order from {firstname} {lastname}, id: {order_id}, paiement: {payment}, "
+"total: {total_paid} {currency}."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:231
+msgid ""
+"This item is almost out of order, id: {product_id}, réf: {product_ref}, "
+"name: {product_name}, quantity: {quantity}"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:234
+msgid ""
+"Your SMS credit is almost empty. Your remaining balance is {balance} € "
+"available."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:237
+msgid ""
+"date: {date}, inscriptions: {subs}, orders: {orders}, sales: {day_sales}, "
+"for the month of: {month_sales}"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:240
+msgid "{firstname} {lastname}, Welcome to {shopname} !"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:243
+msgid ""
+"{firstname} {lastname}, your new password to access to {shopname} is : "
+"{password}. {shopurl}"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:246
+msgid ""
+"{firstname} {lastname}, the item {product} is now available on {shopname} "
+"({shopurl})"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:249
+msgid "Thank you for your message. We will answer it very shortly. {shopname}"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:252
+msgid ""
+"{firstname} {lastname}, we do confirm your order {order_id}, of {total_paid} "
+"{currency}. Thank you. {shopname}"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:260
+msgid ""
+"{firstname} {lastname}, your order {order_id} on {shopname} has a new "
+"status : {order_state}"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:262
+msgid "Not defined"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:440
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:446
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:447
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:450
+msgid "undefined"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-campaign-list.php:49
+msgid "campaign"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-campaign-list.php:51
+msgid "campaigns"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-campaign-list.php:62
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:319
+msgid "Ticket"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-campaign-list.php:63
+msgid "Title"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-campaign-list.php:64
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:322
+msgid "Status"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-campaign-list.php:66
+msgid "Nb recipients"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-campaign-list.php:68
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:342
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:79
+msgid "Price"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-campaign-list.php:69
+msgid "Sending date"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-campaign-list.php:70
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:75
+msgid "Actions"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-campaign-list.php:212
+msgid "edit"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:123
+msgid "Campaigns that have not yet been sent"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:125
+msgid "Campaigns history"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:127
+msgid "Create a new campaign / Send a new SMS"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:136
+msgid "Search Campaigns"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:161
+msgid "Back to the list"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:165
+msgid ""
+"As soon as you start choosing the recipient(s), your campaign will be "
+"automatically saved and you will find it in \"Send SMS\" tab for further "
+"modification if necessary."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:166
+msgid "Here is the sending process :"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:167
+msgid ""
+"1. Create your campaign, click on 'Save' if you want to be able to modify it "
+"later."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:168
+msgid ""
+"2. When your campaign is ready, click \"Transmit to Octopush\" to send your "
+"request to the SMS plateform, SMS will not be send at this time ! Status "
+"become \"Transfert in progess\" and the campaign can't be modified anymore."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:169
+msgid ""
+"3. During the transfer, number of recipients, number of SMS and price are "
+"updated in the \"Information\" part."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:170
+msgid ""
+"- If you stop the transfer by leaving the page (campaign with several "
+"recipients), you can complete it later by clicking \"Transmit to Octopush\" "
+"again."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:171
+msgid ""
+"- When everything has been sent, you can validate the SMS by clicking "
+"\"Accept & Send\" or you can definitively cancel it."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:172
+msgid ""
+"4. If there's no error (insuffisant balance for example), your campaign will "
+"be sent. Else, please fix the problem and try again."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:173
+msgid ""
+"5. You can retrieve all the campaigns whose are not in the status \"In "
+"Construction\", \"Transfer in progress\" or \"Waiting for validation\" in "
+"the \"SMS history\" tab."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:174
+msgid "- You can still cancel it unless it has been sent by Octopush."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:195
+#, php-format
+msgid "Campaign %s details"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:199
+msgid "SMS Settings"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:199
+msgid "SMS Details"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:203
+msgid ""
+"Before sending a message, you have to enter your account information in the "
+"Settings Tab."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:211
+msgid "Title of the campaign"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:217
+msgid "Message"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:221
+msgid "Variables you can use : {firstname}, {lastname}"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:225
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:345
+msgid "Send date"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:227
+msgid "h"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:228
+msgid "m"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:229
+msgid "Time Zone:"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:258
+msgid "List of recipients"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:272
+msgid "Time"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:273
+msgid "Hour"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:274
+msgid "Minute"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:275
+msgid "Second"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:276
+msgid "Now"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:277
+msgid "Close"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:280
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:473
+msgid "That phone number is invalid."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:281
+msgid "Please choose a valid CSV file"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:282
+msgid "That number must be greater or equal to 1"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:283
+msgid "Are you sure you want to cancel that campaign ?"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:284
+msgid "Are you sure you want to delete that campaign ?"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:312
+msgid "Information"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:313
+msgid "Amount in your account"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:316
+msgid "Campaign ID"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:330
+msgid "Simulation"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:331
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:334
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:158
+msgid "Yes"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:333
+msgid "Paid by customer"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:336
+msgid "Recipients"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:339
+msgid "Nb of SMS"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:348
+msgid "Transmition date"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:351
+msgid "Validation date"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:361
+msgid "Choose the recipients"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:362
+msgid "4 methods to choose your recipients"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:370
+msgid "Enter your recipient details"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:373
+msgid "Phone (international e.g: +33612345678)"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:374
+msgid "Firstname (optional)"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:375
+msgid "Lastname (optional)"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:381
+msgid "Or search for customers"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:384
+msgid "Search will be applied on phone, id_customer, firstname, lastname"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:388
+msgid "Or upload a CSV file"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:393
+msgid ""
+"Phone in 1st column (international format), Firstname in 2nd (optional), "
+"Lastname in 3rd (optional)"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:394
+msgid "See example"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:399
+msgid "Or create your own Query"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:406
+msgid "-- All countries --"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:417
+msgid "Registered"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:417
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:420
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:423
+msgid "From"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:418
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:421
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:424
+msgid "To"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:419
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:422
+msgid "Ignore years"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:420
+msgid "Connected"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:423
+msgid "Number of orders"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:425
+msgid "Or no order"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:428
+msgid "customer(s) found"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:428
+msgid "Add"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:438
+msgid "All doublons will be automatically removed"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:453
+msgid "Save this campaign"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:454
+msgid "Transmit to Octopush"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:456
+msgid "Accept & Send"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:462
+msgid "Cancel this campaign"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:464
+msgid "Delete this campaign"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:466
+msgid "Duplicate this campaign"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:471
+msgid "Transfer in progress :"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:471
+msgid "recipients left"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-history-tab.php:58
+msgid "Your campaign is now canceled on octopush and can be deleted"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-history-tab.php:67
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:216
+msgid "Your campaign has been deleted."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-messages.php:75
+msgid "Choose SMS you want to activate, and customize their text."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-messages.php:77
+msgid "On the right side you can see a preview to check that everything is ok."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-messages.php:84
+msgid "SMS for Admin"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-messages.php:88
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-messages.php:94
+msgid "Update"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-messages.php:91
+msgid "SMS for Customer"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-messages.php:95
+msgid "Reset all messages"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-messages.php:127
+msgid "Sent only if customer pay the option"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-messages.php:132
+msgid "Activate"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-messages.php:143
+msgid ""
+"This message will be divided in 70 chars parts, because of non standard "
+"characters : "
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-messages.php:143
+msgid "This message will be divided in 160 chars parts"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-messages.php:145
+msgid "Variables you can use : "
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-news.php:39
+msgid "News in your language are not available."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-news.php:49
+msgid "author"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:46
+msgid "recipient"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:48
+msgid "recipients"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:64
+msgid "ID"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:65
+msgid "Firstname"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:66
+msgid "Lastname"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:67
+msgid "Phone"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:68
+msgid "Country"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:80
+msgid "Transmited to Octopush"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:81
+msgid "Status / Error"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:128
+msgid "Search Recipients"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:228
+msgid "no"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:229
+msgid "yes"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:237
+msgid "delete"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:56
+msgid "Your campaign has been saved."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:70
+msgid "The file has not been uploaded"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:106
+msgid "That file is not a valid CSV file."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:109
+msgid "new recipient(s) were added to the list."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:109
+msgid "line(s) ignored."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:141
+msgid ""
+"Your campaign is currently being transmitted, please do not close the window."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:159
+msgid "Your campaign is now validated and will be sent at"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:175
+msgid "Your campaign is now canceled on octopushsms and can be deleted"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:183
+msgid "Your campaign is now canceled and can be deleted"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:208
+msgid "Your campaign has been duplicated, you are now working on the new one."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:213
+msgid "Your campaign can not be deleted."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:224
+msgid "Please enter a title"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:226
+msgid "Please enter a message"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:228
+msgid "Please enter a valid send date"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:478
+msgid "The phone number and the country does not match."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:516
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:518
+msgid "That phone number is already in the list."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-settings.php:84
+msgid "Please enter your account information to login to www.octopush.com"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-settings.php:88
+msgid "The email you entered is not a valid email."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-settings.php:99
+msgid "This account is not a valid account on www.octopush.com"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-settings.php:106
+msgid "Please enter a valid sender name : 11 chars max (letters + digits)"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-settings.php:112
+msgid "Please enter a valid admin mobile number"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-settings.php:118
+msgid "Please enter a valid integer value for alert"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/class-octopush-sms-settings.php:125
+msgid "Please enter a valid integer value for product_id"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:119
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:121
+msgid "OK"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:120
+msgid "KO"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:122
+msgid "Impossible to process requested action"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:123
+msgid "POST request missing."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:124
+msgid "Incorrect login details."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:125
+msgid "Your SMS exceeds 160 characters"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:126
+msgid "Your message has no recipients"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:127
+msgid "You have run out of credit."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:128
+msgid ""
+"You don't have enough credit on your balance your last order is being "
+"validated"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:129
+msgid ""
+"You have entered the Sender incorrectly. 3 to 11 characters, chosen from 0 "
+"to 9, a to z, A to Z. No accents, spaces or punctuation."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:130
+msgid "The text of your message is missing."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:131
+msgid "You have not defined the quality of your message."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:132
+msgid "You have not entered your login details."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:133
+msgid "You have not entered your password."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:134
+msgid "You have not entered the list of recipients."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:135
+msgid "You have not chosen a way to enter your recipients."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:136
+msgid "Your recipient list does not contain a valid number."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:137
+msgid ""
+"Your account is not validated. Log in and go to the \"User interface\" "
+"section."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:138
+msgid ""
+"Your account is not validated. <br /><br /> Click on the button below to "
+"activate it."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:139
+msgid "You are under investigation for the fraudulent use of our services."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:140
+msgid ""
+"The recipient number is different from the number of one of the parameters "
+"that you have related it to."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:141
+msgid "The mailing option only works by using a contact list."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:142
+msgid ""
+"Your recipient list contains no correct numbers. Have you formated your "
+"numbers by including the international dialling code? Contact us if you have "
+"any problems."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:143
+msgid ""
+"You must tick one of the two boxes to indicate if <u>you do not wish to send "
+"test SMS </u> or if <u>you have correctly received and validated it</u>."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:144
+msgid "You cannot send SMS with more than x characters for this type of SMS"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:145
+msgid "A SMS with the same request_id has already been sent."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:146
+msgid "In Premium SMS, the mention \""
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:147
+msgid ""
+"In Standard SMS, the mention _STR_NO_PUB_  is mandatory  and must belong to "
+"your text (respect the case)."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:148
+msgid "The field request_sha1 is missing."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:149
+msgid ""
+"The field request_sha1 does not match. The data is wrong, or the query "
+"string contains an error or the frame contains an error : the request is "
+"rejected."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:150
+msgid "An undefined error has occurred. Please contact support."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:151
+msgid ""
+"An SMS campaign is already waiting for approval to send. You must validate "
+"or Cancel it in order to to start another."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:152
+msgid ""
+"An SMS campaign is already being processed. You must wait for processing to "
+"be completed in order to start another."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:153
+msgid "Too many attempts have been made. You need to start a new campaign."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:154
+msgid "Campaign is being built."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:155
+msgid "Campagne has not been set as finished."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:156
+msgid "Campaign not found."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:157
+msgid "Campaign sent."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:158
+msgid "No country was found for this country."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:159
+msgid "The recipient country is not part of the countries serviced."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:160
+msgid "You cannot send low cost SMS to this country. Choose Premium SMS"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:161
+msgid ""
+"The route is congested. This type of SMS cannot be dispatched immediately. "
+"If your order is urgent, please use another type of SMS."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:162
+msgid ""
+"This option is only available on request. Do not hesitate to request access "
+"if you need it."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:163
+msgid "The email account you wish to credit is incorrect."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:164
+msgid ""
+"You already have tokens in use. You can only have one session open at a time."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:165
+msgid "You specified a wrong token."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:166
+msgid "The number of text messages you want to transfer is too low."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:167
+msgid "You may not run campaigns during a credit transfer."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:168
+msgid "You do not have access to this feature."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:169
+msgid "Wrong type of SMS."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:170
+msgid "You are not allowed to send SMS messages to this user."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:171
+msgid ""
+"This email is not specified in any of your sub accounts or affiliate users."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:172
+msgid "You are not authorized to manage your lists by API."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:173
+msgid "You have reached the maximum number of lists."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:174
+msgid "A list with the same name already exists."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:175
+msgid "The specified list does not exist."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:176
+msgid "The list is already full."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:177
+msgid "There are too many contacts in the query."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:178
+msgid "The requested action is unknown."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/models/class-octopush-sms-recipient.php:66
+msgid " no valid data is set"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/models/class-octopush-sms-recipient.php:70
+msgid "value is required"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/models/class-octopush-sms-recipient.php:73
+msgid "maximum size is "
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-admin-page.php:30
+msgid "Messages"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-admin-page.php:32
+msgid "Campaigns"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-admin-page.php:33
+msgid "History"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-admin-page.php:34
+msgid "News"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:31
+msgid "Parameters"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:36
+msgid ""
+"This module allows you to send SMS to the admin, or to customers on "
+"different events."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:37
+msgid "It also allows to send Bulk SMS for marketing campaign."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:39
+msgid "First, you have to create an account on "
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:41
+msgid " to be able to send SMS, and make a deposit on this account."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:43
+msgid "Then, please fill your identification settings, and set your options."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:45
+msgid ""
+"If you want that the customers pay for the notification service, first "
+"create a product representing the SMS service, then fill the product ID "
+"field."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:46
+msgid ""
+"Finally, you have to activate/desactivate events you want on the \"Messages"
+"\" tab, and if needed, customize the text that will be sent for each event."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:48
+msgid "Enjoy !"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:56
+msgid "Create your Octopush account"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:57
+msgid ""
+"Create your account by clicking on the following image and start sending SMS "
+"now to improve your sales !"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:61
+msgid "Amount on your account"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:70
+msgid "Email"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:80
+msgid "You can find it on your Octopush "
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:80
+msgid "Personal Data"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:85
+msgid "Key Octopush"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:101
+msgid "Admin mobile number"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:116
+msgid "Sender name"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:127
+msgid "11 characters maximum"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:132
+msgid "Send an alert when your account is under"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:146
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:149
+msgid "Order status notification free"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:167
+msgid "No"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:171
+msgid "SMS notification product ID"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:192
+msgid "Informations"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:196
+msgid ""
+"Standard message is divided in 160 chars long parts and each part cost 1 "
+"SMS, if all chars are in list below. If one or more chars are not in this "
+"list, then message is divided in 70 chars parts, and each part cost 1 SMS. "
+"You can see if your message will be divided in 70 chars long parts in the "
+"\"Manage message\" tab and which char is not supported in standard."
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:199
+msgid ""
+"Before applying mentioned rule, these characters are automatically replaced"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:200
+msgid "Original character"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:201
+msgid "Replaced by"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:204
+msgid "Authorized characters"
+msgstr ""
+
+#: /media/mathieu/OS/Users/admin/Google
+#: Drive/projets/woo/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:210
+msgid "These chars count as 2 chars :"
+msgstr ""
+
+#~ msgid "action_customer_account_add_default_text"
+#~ msgstr "{firstname} {lastname} vient de s'inscrire sur {shopname}"
